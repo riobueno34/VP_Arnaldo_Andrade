@@ -1,0 +1,7 @@
+#Selenium specific parameters
+
+#Linux
+ChromeDriverPath=SeleniumDownloads/binaries/Linux/googlechrome/64bit/chromedriver
+
+screen_shot_dir=./target/
+dirName=./target/

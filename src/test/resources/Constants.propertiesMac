@@ -1,0 +1,9 @@
+#Selenium specific parameters
+
+#IOS
+ChromeDriverPath=SeleniumDownloads/binaries/Mac/chromedriver
+FirefoxPath = SeleniumDownloads/binaries/Mac/geckodriver
+PhantomJSPath = SeleniumDownloads/binaries/Mac/phantomjs
+
+screen_shot_dir=./target/
+dirName=./target/
